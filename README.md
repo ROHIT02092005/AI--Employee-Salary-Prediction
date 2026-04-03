@@ -1,4 +1,4 @@
-# IBM-AI-PBEL-Employee-Salary-Prediction
+#AI--Employee-Salary-Prediction
 AI Project to predict employee salaries using machine learning
 This repository contains my project submission for the *IBM AI PBEL Course*.  
 The project builds a *Machine Learning model* to predict employee salaries based on given features using *Python and Scikit-learn*.
@@ -44,7 +44,7 @@ The project builds a *Machine Learning model* to predict employee salaries based
 ## 🚀 How to Run
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/ROHIT02092005/IBM-AI-PBEL-Employee-Salary-Prediction.git
+   git clone https://github.com/ROHIT02092005/AI--Employee-Salary-Prediction.git
 2. Open EmployeSalaryPrediction.ipynb in Jupyter Notebook
 3. Install Dependencies:
     pip install pandas numpy scikit-learn matplotlib
